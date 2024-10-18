@@ -20,36 +20,20 @@ My mission? To create innovative solutions and software that not only help peopl
 
 ## 🔧 Technologies I Use:
 
-- **Languages**: 
-  - ![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-yellow?style=for-the-badge&logo=javascript)
-  - ![Java](https://img.shields.io/badge/Java-8.0-orange?style=for-the-badge&logo=java)
-  - ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript)
-  - ![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json)
+| Languages | Frameworks & Libraries | Databases | Development Tools |
+|-----------|-------------------------|-----------|--------------------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-ES2023-yellow?style=for-the-badge&logo=javascript) | ![React](https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge&logo=react) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16.0-blue?style=for-the-badge&logo=postgresql) | ![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge) |
+| ![Java](https://img.shields.io/badge/Java-8.0-orange?style=for-the-badge&logo=java) | ![Angular](https://img.shields.io/badge/Angular-15.0.0-red?style=for-the-badge&logo=angular) | ![Firebase](https://img.shields.io/badge/Firebase-11.0.0-yellow?style=for-the-badge&logo=firebase) | ![VSCode](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript) | ![Astro](https://img.shields.io/badge/Astro-v4.16.3-blue?style=for-the-badge&logo=astro) | ![Firestore](https://img.shields.io/badge/Firestore-11.0.0-blue?style=for-the-badge&logo=firestore) | ![Eclipse](https://img.shields.io/badge/Eclipse-2023--06-2A3A3B?style=for-the-badge&logo=eclipse) |
+| ![JSON](https://img.shields.io/badge/JSON-black?style=for-the-badge&logo=json) | ![React Native](https://img.shields.io/badge/React%20Native-0.64.3-61DAFB?style=for-the-badge&logo=react) |           | ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-orange?style=for-the-badge&logo=sublimetext) |
+|           | ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=spring) |           | ![Project IDX](https://img.shields.io/badge/Project%20IDX-ff4a1a?style=for-the-badge&logo=google) |
+|           |                         |           | ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-4.33.0-blue?style=for-the-badge) |
+|           |                         |           | ![DBeaver](https://img.shields.io/badge/DBeaver-2A3A3B?style=for-the-badge&logo=dbeaver) |
+|           |                         |           | ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman) |
+|           |                         |           | ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo) |
+|           |                         |           | ![GitFlow](https://img.shields.io/badge/GitFlow-00BFFF?style=for-the-badge&logo=git) |
 
-- **Frameworks & Libraries**: 
-  - ![React](https://img.shields.io/badge/React-18.2.0-blue?style=for-the-badge&logo=react)
-  - ![Angular](https://img.shields.io/badge/Angular-15.0.0-red?style=for-the-badge&logo=angular)
-  - ![Astro](https://img.shields.io/badge/Astro-v4.16.3-blue?style=for-the-badge&logo=astro)
-  - ![React Native](https://img.shields.io/badge/React%20Native-0.64.3-61DAFB?style=for-the-badge&logo=react)
-  - ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-green?style=for-the-badge&logo=spring)
-
-- **Databases**: 
-  - ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-16.0-blue?style=for-the-badge&logo=postgresql)
-  - ![Firebase](https://img.shields.io/badge/Firebase-11.0.0-yellow?style=for-the-badge&logo=firebase)
-  - ![Firestore](https://img.shields.io/badge/Firestore-11.0.0-blue?style=for-the-badge&logo=firestore)
-
-- **Development Tools**:
-  - ![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github&style=for-the-badge)
-  - ![VSCode](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
-  - ![Eclipse](https://img.shields.io/badge/Eclipse-2023--06-2A3A3B?style=for-the-badge&logo=eclipse)
-  - ![Sublime Text](https://img.shields.io/badge/Sublime%20Text-orange?style=for-the-badge&logo=sublimetext)
-  - ![Project IDX](https://img.shields.io/badge/Project%20IDX-ff4a1a?style=for-the-badge&logo=google)
-  - ![IntelliJ](https://img.shields.io/badge/IntelliJ%20IDEA-4.33.0-blue?style=for-the-badge)
-  - ![DBeaver](https://img.shields.io/badge/DBeaver-2A3A3B?style=for-the-badge&logo=dbeaver)
-  - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
-  - ![Expo](https://img.shields.io/badge/Expo-000000?style=for-the-badge&logo=expo)
-  - ![GitFlow](https://img.shields.io/badge/GitFlow-00BFFF?style=for-the-badge&logo=git)
-
+_**🛠️ Stay tuned! I’m still expanding this list—much like my coffee consumption! ☕️**_
 
 ## 🌱 Currently Learning:
 
