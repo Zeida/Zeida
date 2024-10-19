@@ -3,6 +3,9 @@
 
 _Currently on a quest to breathe new life into my portfolio, showcasing a treasure trove of projects and innovative ideas I've nurtured throughout my journey._
 
+> **Note:**  
+> I am currently working on creating my portfolio using ASTRO. You can check it out [here](https://zeida.github.io/MyPortfolio/). This portfolio showcases my projects and skills, reflecting my journey and growth as a developer.
+
 _Stay tuned as I embark on this exciting adventure of creativity and growth!_
 
 ---
