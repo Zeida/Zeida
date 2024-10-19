@@ -6,12 +6,6 @@ _Currently on a quest to breathe new life into my portfolio, showcasing a treasu
 _Stay tuned as I embark on this exciting adventure of creativity and growth!_
 
 ---
-
-**📂 Project Organization:**  
-To better organize my work from **ULPGC**, I've moved my university projects into a dedicated organization. This allows for a clearer presentation of my coding journey and helps showcase the various exercises and projects I've completed during my studies in **Computer Engineering (Software specialization)**.
-
----
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/zeida-de-los-reyes-rodr%C3%ADguez-mendoza/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github&style=for-the-badge)](https://github.com/Zeida)
 [![X](https://img.shields.io/badge/X-Follow-blue?logo=x&style=for-the-badge)](https://x.com/zeidaromen)
@@ -19,6 +13,10 @@ To better organize my work from **ULPGC**, I've moved my university projects int
 [![Outlook](https://img.shields.io/badge/Outlook-Email-blue?logo=microsoftoutlook&style=for-the-badge)](mailto:zeidaromen@outlook.es)
 [![Discord](https://img.shields.io/badge/Discord-Chat-purple?logo=discord&style=for-the-badge)](https://discordapp.com/users/zeidaromen#3733)
 [![CodePen](https://img.shields.io/badge/CodePen-Profile-black?logo=codepen&style=for-the-badge)](https://codepen.io/Zeida)
+---
+
+**📂 Project Organization:**  
+To better organize my work from **ULPGC**, I've moved my university projects into a dedicated organization. This allows me to separate my **personal projects** from the work completed during my studies in **Computer Engineering**. It also provides a clearer presentation of my coding journey and showcases the various exercises and projects I've completed.
 
 ## 🌈 Who am I?
 I'm a passionate advocate for teamwork in multidisciplinary settings, where collaboration and a positive atmosphere thrive! 🤝 I believe that innovation is the 💓 of progress, and I'm always excited about projects that add real value to society.
