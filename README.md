@@ -5,6 +5,13 @@ _Currently on a quest to breathe new life into my portfolio, showcasing a treasu
 
 _Stay tuned as I embark on this exciting adventure of creativity and growth!_
 
+---
+
+**📂 Project Organization:**  
+To better organize my work from **ULPGC**, I've moved my university projects into a dedicated organization. This allows for a clearer presentation of my coding journey and helps showcase the various exercises and projects I've completed during my studies in **Computer Engineering (Software specialization)**.
+
+---
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/zeida-de-los-reyes-rodr%C3%ADguez-mendoza/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-blue?logo=github&style=for-the-badge)](https://github.com/Zeida)
 [![X](https://img.shields.io/badge/X-Follow-blue?logo=x&style=for-the-badge)](https://x.com/zeidaromen)
