@@ -80,26 +80,31 @@ _Currently enhancing my skills and collecting achievements in the exciting world
     
 
 ## 🥰 Life Beyond Coding
-When I'm not coding, you can find me immersed in a world of creativity and passion! 📚✨ 
 
-I enjoy reading works from great authors like Unamuno and Saramago, along with thought-provoking books like Homo Deus. My taste in music is eclectic with Extremoduro 🤘🏼being my all-time favorite band! 🎶
+When I'm not coding, you can find me immersed in a world of creativity and passion! 📚✨
 
-Nature calls to me as I love hiking and camping⛺️, exploring the beauty of the outdoors. I also take joy in caring for plants and fish; my cozy fish tank is home to some vibrant inhabitants, while my collection of succulents, a bonsai, a Calathea and others wonderful plants keeps my space lively. 🌿🐠
+I enjoy reading works from great authors like Unamuno and Saramago, along with thought-provoking books like Homo Deus. My taste in music is eclectic, with Extremoduro 🤘🏼 being my all-time favorite band! 🎶
 
-Art is another passion of mine, and I find great joy in drawing and crafting. Whether it’s working on models or solving puzzles, my creativity flows freely. 🎨🧩
+Nature calls to me as I love hiking and camping⛺️, exploring the beauty of the outdoors. I also take joy in caring for plants and fish; my cozy fish tank is home to some vibrant inhabitants, while my collection of succulents, a bonsai, a Calathea, and other wonderful plants keeps my space lively. 🌿🐠
+
+I’m also passionate about cooking! 🍳🥘 I love experimenting with flavors and creating delicious dishes that bring joy to those around me.
+
+My creativity extends to art, where I find joy in drawing and crafting. Whether it’s working on models or solving puzzles, my imagination flows freely. 🎨🧩
 
 As a cinematic enthusiast 🎥, I appreciate classic and acclaimed films, with Léon: The Professional and The Butterfly Effect being my top picks. 🍿 I also enjoy a good binge-watch, catching up on shows like Adventure Time, The Walking Dead, Game of Thrones, This Is Us, Cortar por la Línea de Puntos, Euphoria, The Last of Us, and Merlí. 📺
 
 On the linguistic front🌍, I have a B1 level in English and enjoy writing, listening, and reading it, although speaking isn’t my greatest passion. I’ve always wanted to learn Euskera and Portuguese because I find those languages fascinating! 🌍🗣️
 
-Having trained as a leisure and free-time monitor, I’m always open to exploring new paths, whether it’s as a bookseller, a farmer, or another occupation non relative to IT. Life is all about embracing new experiences! 🌟
+Having trained as a leisure and free-time monitor, I’m always open to exploring new paths, whether it’s as a bookseller, a farmer, or another occupation not related to IT. Life is all about embracing new experiences! 🌟
 
 And here’s a little secret 🤫: unlike many developers, I actually enjoy generating documentation! It’s my hidden superpower! 🦸‍♂️
 
 ## ✨ Let's Connect!
+
 I'd love to hear from you! Feel free to drop a message or ask me anything on my social media.
 
 ## 👥 Visitor Count
+
 ![Visitor Count](https://profile-counter.glitch.me/Zeida/count.svg)
 
 Thank you for visiting my profile! Your support means a lot! 😊
