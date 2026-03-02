@@ -103,8 +103,4 @@ And here’s a little secret 🤫: unlike many developers, I actually enjoy gene
 
 I'd love to hear from you! Feel free to drop a message or ask me anything on my social media.
 
-## 👥 Visitor Count
-
-![Visitor Count](https://profile-counter.glitch.me/Zeida/count.svg)
-
 Thank you for visiting my profile! Your support means a lot! 😊
